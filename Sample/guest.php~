@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="css/style.css" >
+	<title>Guest</title>
+</head>
+<body>	
+	<div id="container">
+		<ul>
+ 
+			
+			<li><a href="index.php">Home</a></li>
+                        <li><a href="register.php">Register</a></li>
+                        <li><a href="login.php">Login</a></li>
+                        <li><a href="host.php">Host</a></li>
+                        <li><a href="guest.php">Guest</a></li>
+		</ul>
+
+<?php
+echo "page under process";
+
+
+
+?>
+
+		
+	</div>
+</body>
+</html>
